@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pedro Frias</h1>
-- 🔭 I’m currently working on [Swearit](www.swearit.io)
 
 - 🌱 I’m currently learning **Nuxt.js && django**
 
