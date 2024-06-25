@@ -12,9 +12,6 @@
 - ❓ Ask me about anything related to MERN stack and Blockchain stuff  
   
 
-- ⚡ Fun fact: I love the feeling of making an npm i - don't judge me🙄  
-  
-
 <br/>  
 
 
