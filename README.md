@@ -6,9 +6,6 @@
 ### <div align="center">I'm  Pedro Frias, full-stack developer 👨‍💻🚀</div>  
   
 
-- 🌱 I’m currently learning Nuxt and django  
-  
-
 - ❓ Ask me about anything related to MERN stack and Blockchain stuff  
   
 
