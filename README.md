@@ -4,7 +4,7 @@
 
 ### Engineering Lead · Digital Asset Custody · Blockchain Security & Architecture
 
-I build secure, scalable systems for digital assets — from custody and wallets to enterprise blockchain platforms.
+I work on secure, scalable systems for digital assets.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Luis_Frias_Favero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-frias-favero)
 [![Website](https://img.shields.io/badge/Website-Hexablock-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hexablock.io/about)
@@ -28,7 +28,7 @@ I build secure, scalable systems for digital assets — from custody and wallets
 - Built core blockchain components for an **invoice fraud prevention network** connecting leading banks with the tax authority, supporting **14+ banks** and processing approximately **15 million invoices per year**.
 - Co-founded **Swear IT**, took the product from inception to market, and led it through a successful acquisition.
 
-## Areas of expertise
+## Focus areas
 
 `Digital Asset Custody` · `Wallet Architecture` · `Blockchain Security` · `Key Management` · `CCSS` · `Enterprise DLT` · `Smart Contracts` · `Engineering` · `Solution Architecture` · `Cloud & DevOps`
 
