@@ -1,98 +1,91 @@
 <div align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm  Pedro Frias, full-stack developer 👨‍💻🚀</div>  
-  
+# Hi, I'm Pedro Frias 👋
 
-- ❓ Ask me about anything related to MERN stack and Blockchain stuff  
-  
+### Engineering Lead · Digital Asset Custody · Blockchain Security & Architecture
 
-<br/>  
+I build secure, scalable systems for digital assets — from custody and wallets to enterprise blockchain platforms.
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Luis_Frias_Favero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-frias-favero)
+[![Website](https://img.shields.io/badge/Website-Hexablock-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hexablock.io/about)
+[![Email](https://img.shields.io/badge/Email-pedro%40hexablock.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro@hexablock.io)
 
 
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## About me
 
+- 🔐 **Engineering Lead, Custody at BitMEX**.
+- 🚀 Led **EY Spain's Blockchain & Digital Assets practice**, supporting enterprise initiatives from strategy through production.
+- 🎓 Blockchain and software engineering educator at **KeepCoding** and **Tech Global University**.
+- ✅ **CryptoCurrency Security Standard Auditor — CCSSA (C4)**.
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-</div>
+## Selected impact
 
-</td><td valign="top" width="33%">
+- Delivered an enterprise **B2B digital-asset custody and exchange platform** for a major Spanish custody bank.
+- Built core blockchain components for an **invoice fraud prevention network** connecting leading banks with the tax authority, supporting **14+ banks** and processing approximately **15 million invoices per year**.
+- Co-founded **Swear IT**, took the product from inception to market, and led it through a successful acquisition.
 
+## Areas of expertise
 
+`Digital Asset Custody` · `Wallet Architecture` · `Blockchain Security` · `Key Management` · `CCSS` · `Enterprise DLT` · `Smart Contracts` · `Engineering` · `Solution Architecture` · `Cloud & DevOps`
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
+## Technology stack
 
-</td></tr></table>  
+### Languages
 
-<br/>  
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
+![Solidity](https://img.shields.io/badge/Solidity-000?style=flat-square&logo=solidity)
+![Go](https://img.shields.io/badge/Go-000?style=flat-square&logo=go)
 
+### Blockchain & digital assets
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-000?style=flat-square&logo=hyperledger)
+![Hyperledger Besu](https://img.shields.io/badge/Hyperledger_Besu-000?style=flat-square&logo=hyperledger)
+![Ethereum](https://img.shields.io/badge/Ethereum-000?style=flat-square&logo=ethereum)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pfriasf&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+### Cloud, platform & DevOps
 
-</td><td valign="top" width="50%">
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonwebservices)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=flat-square&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-000?style=flat-square&logo=ansible)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=flat-square&logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-000?style=flat-square&logo=helm)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pfriasf&hide_border=true&layout=compact" align="left" />
+### Backend & frontend
 
-</td></tr></table>  
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-000?style=flat-square&logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/Nuxt-000?style=flat-square&logo=nuxtdotjs)
 
-<br/>  
+## Featured projects
 
+### [CCSS Navigator](https://ccssnavigator.com/)
+Open-source dashboard for navigating the **CryptoCurrency Security Standard**, including its security aspects, controls, and requirements for cryptographic-asset systems.
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Pfriasf" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/pedrolff" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/pedroluisff" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/pedro-frias-favero" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+### [Swearit](https://swearit.io/)
+Blockchain-based B2B SaaS platform for verifiable product traceability, authenticity, and compliance across supply chains.
 
-<br/>  
+### [Swearit Wine](https://www.swearit.wine/)
+Digital wine labels anchored in verifiable proof.
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/pfriasf" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+### [The Collectionist](https://thecollectionist.club/collection/custo-barcelona)
+NFT collection featuring iconic designs by international fashion designer **Custo Barcelona**.
+
+## Teaching & community
+
+- **Teacher — Blockchain & Crypto Assets Full Stack Bootcamp, KeepCoding**  
+  Smart contracts, Hyperledger Fabric, chaincode development, SDK integration, and data modeling.
+- **Professor — Tech Global University**  
+  Mobile application development, frontend programming, and full-stack software engineering.
+- **Mentor Ambassador — KeepCoding**  
+  Mentorship and professional guidance for the technology community.
