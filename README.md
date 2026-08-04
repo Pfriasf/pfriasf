@@ -65,7 +65,7 @@ I work on secure, scalable systems for digital assets.
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
 ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=flat-square&logo=vuedotjs)
-![Nuxt](https://img.shields.io/badge/Nuxt-000?style=flat-square&logo=nuxtdotjs)
+![Nuxt](https://img.shields.io/badge/Nuxt-000?style=flat-square&logo=nuxt)
 
 ## Featured projects
 
